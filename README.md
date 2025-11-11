@@ -2,6 +2,7 @@ The current contents of the Nvim config, we right now have no Mason support and
 mainly work with C/C++. It could be good to add importand stuff, like Rust, Zig 
 and VHDL support. The neat things you know.
 
+```bash
 .
 ├── init.lua
 ├── lazy-lock.json
@@ -18,3 +19,4 @@ and VHDL support. The neat things you know.
 │   └── plugins.lua
 ├── mason.backup
 └── telescope.backup
+```
